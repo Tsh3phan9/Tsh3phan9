@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsh3phan9
+- 👋 Hi, I’m @Tsh3phan9 (TSHepHang)
 - 👀 I’m interested in Information security, connecting like minds 
 - 🌱 I’m currently learning certifed and looking to transition from hospitaliy to tech
 - 💞️ I’m looking to collaborate on any skills projects related to blue teaming and sharpernig skills to be a succesful individual and a team
